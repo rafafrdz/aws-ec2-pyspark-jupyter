@@ -1,0 +1,13 @@
+version: "1"
+
+services:
+  sandbox:
+    image: rafafrdz/sandbox-jupyter-spark
+    ports:
+     - 8888:8888
+     - 8998:8998
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    volumes:
+     - ./ssh:/home/admin/.ssh
+     - ./notebook:/home/admin/notebook
