@@ -4,6 +4,8 @@
 
 **Doc**: **[Enlace](https://docs.aws.amazon.com/glue/latest/dg/release-notes.html)**
 
+**Docker HUB**: **[Pull: sandbox-jupyter-spark](https://hub.docker.com/repository/docker/rafafrdz/sandbox-jupyter-spark)**
+
 ### **Build docker image**
 
 On the root folder
