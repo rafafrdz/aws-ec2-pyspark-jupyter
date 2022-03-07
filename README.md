@@ -25,7 +25,7 @@ docker build -t <USER>/sandbox-jupyter-spark .
 On the folder where docker-compose.yml is allocated
 
 ```python
-docker-compose run --rm -p 8888:8888 sandbox /bin/bash
+docker-compose run --rm -p 8888:8888 -p 8998:8998 sandbox /bin/bash
 ```
 
 ### **Jupyter Command**
