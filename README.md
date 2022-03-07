@@ -2,7 +2,7 @@
 
 **IMPORTANT**: This has to run under python 3.7
 
-**Doc**: **[Enlace](https://docs.aws.amazon.com/glue/latest/dg/release-notes.html)**
+**Doc**: **[AWS Glue Release Notes](https://docs.aws.amazon.com/glue/latest/dg/release-notes.html)**
 
 **Docker HUB**: **[Pull: sandbox-jupyter-spark](https://hub.docker.com/repository/docker/rafafrdz/sandbox-jupyter-spark)**
 
